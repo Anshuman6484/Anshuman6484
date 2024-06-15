@@ -7,15 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshuman6484&label=Profile%20views&color=0e75b6&style=flat" alt="anshuman6484" /> </p>
 
-- 🔭 I’m currently working on **react projects**
+- 🔭 I’m currently working on **both frontend & backend frameworks**
 
-- 🌱 I’m currently learning **react js**
+- 🌱 I’m currently learning **react & node**
 
-- 💬 Ask me about **dsa , javascript and react**
+- 💬 Ask me about **dsa & dev**
 
 - 📫 How to reach me **kanshuman6484@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
