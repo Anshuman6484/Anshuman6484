@@ -60,17 +60,6 @@ Check out my projects showcased in the pinned repositories on my GitHub profile!
 
 ---
 
-### 📊 **GitHub Stats**  
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshuman6484&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anshuman6484&show_icons=true&locale=en" alt="GitHub Stats" />
-  <br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshuman6484&" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📫 **Connect with Me**  
 <p align="left">
 <a href="https://www.linkedin.com/in/kanshuman6484" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
