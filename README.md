@@ -1,38 +1,92 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
+
 <h1 align="center">Hi 👋, I'm Kumar Anshuman</h1>
-<h3 align="center">A passionate Competitive Programmer and Web Developer from India</h3>
-<br>
-<img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdevtechnosys.com%2Finsights%2Fwp-content%2Fuploads%2F2021%2F07%2Ffull-stack-development.gif&f=1&nofb=1&ipt=a2b17b8b2d4b717e119efab50adefc0e21492c120c548797701a9f8be349e965&ipo=images">
-<br>
+<h3 align="center">A passionate Competitive Programmer and Full-Stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshuman6484&label=Profile%20views&color=0e75b6&style=flat" alt="anshuman6484" /> </p>
+---
 
-- 🔭 I’m currently working on **both frontend & backend frameworks**
+<img align="right" alt="Coding" width="400" src="https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif">
 
-- 🌱 I’m currently learning **react & node**
+### 👨‍💻 **About Me**  
+- 🔭 I’m currently building scalable **web applications** with a strong focus on both **frontend** and **backend** development.  
+- 🌱 Currently exploring **React.js**, **Node.js**, and **MongoDB** to become a **Full Stack Developer**.  
+- 💬 Ask me about **Data Structures**, **Algorithms**, **Web Development**, and **REST APIs**.  
+- 💡 I'm a problem-solver at heart, actively participating in **competitive programming** and challenging myself with advanced coding problems.  
+- ⚙️ I enjoy automating tasks and exploring **new technologies** to optimize solutions.  
+- 🎯 My goal is to contribute to open-source projects, build impactful software, and grow as a **Full Stack Developer**.  
+- 📫 How to reach me: **kanshuman6484@gmail.com**  
+- 🧩 Fun fact: I believe every bug has a story to tell! 😄  
 
-- 💬 Ask me about **dsa & dev**
+---
 
-- 📫 How to reach me **kanshuman6484@gmail.com**
+### 🧠 **My Skill Set**  
+**Languages:**  
+- JavaScript (ES6+), C++, C   
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/kanshuman6484" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumar anshuman" height="30" width="40" /></a>
-<a href="https://instagram.com/kanshuman6484" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kanshuman6484" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kanshuman6484" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kanshuman6484" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/kanshuman6484" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kanshuman6484" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kumar_anshuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kumar_anshuman" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kanshuman6484" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kanshuman6484" height="30" width="40" /></a>
+**Frontend:**  
+- React.js
+- Responsive Design using Tailwind CSS    
+
+**Backend:**  
+- Node.js, Express.js  
+- RESTful APIs, MongoDB 
+
+**Others:**  
+- Git & GitHub for version control  
+- Problem-solving on **CodeChef**, **Codeforces**, **LeetCode**, and **GFG**  
+- Deployment on **Vercel** and **Netlify**  
+
+---
+
+### 🌱 **Currently Learning**  
+- Advanced React concepts with Next.js  
+- Backend development with Express.js and MongoDB
+- Building RESTful APIs  
+- Enhancing problem-solving skills in Data Structures and Algorithms
+
+---
+
+### 🌟 **Projects & Work**  
+Check out my projects showcased in the pinned repositories on my GitHub profile!
+- I've worked on both frontend and backend applications with React, Node.js, Express, and MongoDB.
+
+---
+
+### 📈 **Competitive Programming Profiles**  
+- **Codeforces:** [@kanshuman6484](https://codeforces.com/profile/kanshuman6484)  
+- **LeetCode:** [@kumar_anshuman](https://www.leetcode.com/kumar_anshuman)  
+- **GeeksforGeeks:** [@kanshuman6484](https://auth.geeksforgeeks.org/user/kanshuman6484)  
+- **CodeChef:** [@kanshuman6484](https://www.codechef.com/users/kanshuman6484)  
+
+---
+
+### 📊 **GitHub Stats**  
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshuman6484&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anshuman6484&show_icons=true&locale=en" alt="GitHub Stats" />
+  <br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshuman6484&" alt="GitHub Streak" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-<br>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshuman6484&show_icons=true&locale=en&layout=compact" alt="anshuman6484" /></p>
-<br>
+### 📫 **Connect with Me**  
+<p align="left">
+<a href="https://www.linkedin.com/in/kanshuman6484" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://github.com/anshuman6484" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" alt="GitHub" height="30" width="40" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshuman6484&show_icons=true&locale=en" alt="anshuman6484" /></p>
-<br>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshuman6484&" alt="anshuman6484" /></p>
+### 🚀 **Future Goals & Aspirations**  
+- 📂 Deepen my expertise in **Full Stack Development** and explore **Microservices Architecture**.
+- 🛠️ Build impactful **open-source projects** to contribute to the developer community. 
+- 💡 Continuously learn, experiment with new technologies, and explore opportunities in **software development**.
+
+---
+
+### 🏆 **Fun Fact**  
+"I debug to discover — it's like unraveling a mystery! 🕵️‍♂️"
+
+---
