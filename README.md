@@ -78,4 +78,7 @@ Check out my projects showcased in the pinned repositories on my GitHub profile!
 ### 🏆 **Fun Fact**  
 "I debug to discover — it's like unraveling a mystery! 🕵️‍♂️"
 
+### 😄 **Emojis**  
+✨ 🎉 🔥
+
 ---
